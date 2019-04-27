@@ -5,6 +5,6 @@ def reverse_each_word(sentence)
       secondarray << sentence.reverse
     end
     secondarray.join(" ")
-    
+
 
 end
